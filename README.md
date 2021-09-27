@@ -12,6 +12,7 @@ Telegram RoBot to Upload Links.
 👉 Upload HTTP/HTTPS as File/Video to Telegram.
 
 👉 Upload Mediafire, Zippyshare, Hxfile, Anonfiles, Antfiles URL using LK21
+https://heroku.com/deploy?template=https://github.com/alpha-alexxx/myurl/tree/master
 
 **For Devs**:
 
